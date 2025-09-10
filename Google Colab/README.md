@@ -10,9 +10,8 @@ Notebook (carpeta Google Colab/)
 
 4)El notebook lee el dataset desde:
 
-   EXCEL_PATH = '"dataset_pruebas.xlsx"''
+   EXCEL_PATH = "dataset_pruebas.xlsx"'
 
   y guarda resultados en:
 
-   OUTPUT_CSV = '"resultados_con_evidencias.csv"'
-
+   OUTPUT_CSV = "resultados_con_evidencias.csv"
