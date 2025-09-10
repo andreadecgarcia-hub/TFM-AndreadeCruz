@@ -8,5 +8,5 @@ Aplicación web (carpeta Streamlit/)
      
 3) Define la clave en **Settings → Repository secrets**:
    - `OPENAI_API_KEY = sk-...`
-   - (opcional) `OPENAI_MODEL = gpt-4o-mini`
+
      
