@@ -1,0 +1,10 @@
+smolagents
+tiktoken
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+python-dotenv
+openpyxl
+
